@@ -70390,7 +70390,7 @@ $S:95}
 A.o0.prototype={
 Kc(a){var s,r,q,p
 if(a===3){s=document.createElement("a")
-s.href="https://www.mediafire.com/file/kfzz7iwyihtjh0p/Ibrahim_Atef.pdf/file"
+s.href="assets/cv/Ibrahim Atef.pdf"
 s.click()
 A.pg("Cv")}else{r=this.ay
 if(r.f.length!==0){$.b_()
